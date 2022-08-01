@@ -1,0 +1,134 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+body {
+  font-family: 'Roboto', sans-serif;
+  letter-spacing: 0.3px;
+}
+
+#mainbox {
+  box-shadow: 0px 0px 12px 8px rgba(133, 133, 133, 0.84);
+  -webkit-box-shadow: 2px 0px 12px 8px rgba(133, 133, 133, 0.84);
+  -moz-box-shadow: 2px 0px 12px 8px rgba(133, 133, 133, 0.84);
+}
+
+.left-heading {
+  font-weight: 600;
+  font-size: 25px;
+  letter-spacing: 2px;
+  margin-bottom: 5%;
+  margin-top: 5%;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+}
+
+a:hover {
+  color: yellow;
+}
+
+/* RIGHT SIDE CSS */
+
+.right-heading {
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-left: 3%;
+}
+
+.exp-title {
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-bottom: 0px;
+  /* margin-left: 3%; */
+}
+
+.exp-date{
+    letter-spacing: 3px;
+    color: #6e6868;
+    margin-bottom: 1px;
+}
+
+.education-title {
+  font-weight: bold;
+  letter-spacing: 3px;
+  margin-bottom: 0px;
+  /* margin-left: 3%; */
+}
+
+.education-date{
+    letter-spacing: 3px;
+    color: #6e6868;
+    margin-top: 1px;
+}
+
+
+.education-desciption{
+    margin-top: 1px;
+    margin-bottom: 0px;
+
+}
+
+.circletooltips1 {
+  margin-left: 50%;
+  border: 2px solid #323b4a;
+  width: 10px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #323b4a;
+}
+
+.linetooltips1 {
+  /* margin-left: 50%;
+  border: 2px solid #323b4a;
+  width: 5px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: white; */
+  border-right: 2px solid #323b4a;
+  height: 90px;
+  /* margin-right: -14px; */
+}
+
+.circletooltips2 {
+  margin-left: 50%;
+  border: 2px solid #323b4a;
+  width: 10px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #323b4a;
+}
+
+.linetooltips2 {
+  /* margin-left: 50%;
+  border: 2px solid #323b4a;
+  width: 5px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: white; */
+  border-right: 2px solid #323b4a;
+  height: 50px;
+  /* margin-right: -14px; */
+}
+
+.linetooltips3 {
+    /* margin-left: 50%;
+    border: 2px solid #323b4a;
+    width: 5px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: white; */
+  border-right: 2px solid #323b4a;
+  height: 25px;
+  /* margin-right: -14px; */
+}
+
+.circletooltips4 {
+  /* margin-left: 50%;
+  border: 2px solid #323b4a;
+  width: 10px;
+  height: 25px;
+  border-radius: 50%;
+  background-color: #323b4a; */
+}
